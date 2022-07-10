@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/tab_welcome--ico.svg</file>
+    </qresource>
+</RCC>
